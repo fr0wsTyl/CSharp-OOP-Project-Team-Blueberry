@@ -1,7 +1,7 @@
 # CSharp-OOP-Project-Team-Blueberry
 Repository for Telerik Academy C# OOP Team Project - Team Blueberry
 
-Team members:
+----------- Team members -----------
 Ivailo Petrov - Ivayl3
 Alexander Markov - frowstyl
 Vasil Dinev - vassildinev
